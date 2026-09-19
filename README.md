@@ -12,7 +12,7 @@ Tugas Pemrograman Web (PHP Pertemuan 2). Sistem sederhana untuk menampilkan data
 - **Kelas:** A1
 
 ## Deskripsi Project
-Mini Project 1 merupakan tugas mata kuliah Rekayasa Perangkat Lunak.
+Mini Project 1 merupakan tugas mata kuliah Pemrograman Web.
 
 Project ini dibuat sebagai bagian dari tugas pembelajaran dan dikumpulkan melalui GitHub.
 
